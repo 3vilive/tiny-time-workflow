@@ -1,6 +1,6 @@
 # tiny-time-workflow
 
-tiny-time-workflow is a alfred workflow use for convert time representation between datetime and timestamp. [click to download](/TinyTime.alfredworkflow)
+tiny-time-workflow is a alfred workflow use for convert time representation between datetime and timestamp. [click to download](https://github.com/3vilive/tiny-time-workflow/raw/master/TinyTime.alfredworkflow)
 
 | keyword | function |
 | :--: | :--: |
